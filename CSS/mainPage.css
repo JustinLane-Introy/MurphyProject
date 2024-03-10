@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.Logo {
+    background-color: #3d276b;
+    margin: 0;
+    padding: 0;
+}
+
+.optionsSpacer {
+    background-color: black;
+    height: 25px;
+}
+
+.redirects {
+    background-color: lightgrey;
+}
